@@ -1,1 +1,1 @@
-java.py
+print("Hello World Java")
